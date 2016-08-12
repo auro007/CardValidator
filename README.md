@@ -28,3 +28,5 @@ Get the Card brand
 Pass the card number as `String` to the method. The method returns the name of the Card.
 In case of Card brand not found, the method returns `null`
 
+`CardValidation.getCardBrand("4242424242424242");`
+
